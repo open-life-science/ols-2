@@ -1,39 +1,5 @@
 # Week 2: Welcome to Open Life Science!
 
-Topic: [**Welcome to Open Life Science!**](https://openlifesci.org/ols-2/schedule#week-02)
-
-
-Date and time: [10 September 2020, 08:00 - 09:30 UTC](https://arewemeetingyet.com/London/2020-09-10/09:00/week-2-cohort-call)
-
-Duration: _(90 minutes)_
-
-**This week:** During our first cohort call, we will:
-
-- Say hello and introduce ourselves.
-- Review our Community Participation Guidelines.
-- Review our definition of open leadership.
-- Unpack the differences between &quot;open by default&quot; and &quot;open by design.&quot;
-- Learn about common community interactions in open projects.
-- Learn about common value exchanges between community members in open science
-
-**Haven&#39;t heard from your mentor yet?** Let us know.
-
-**Resources:**
-
-**Before this meeting:**
-
-- Add your vision statement to your GitHub repo.
-
-**After this meeting:**
-
-- Complete this [compare and contrast assignment](https://docs.google.com/document/d/1ukvqDRIYfvCapVMdE5hWP-0MkLNJ9T65X43O7F336Ac/edit?usp=sharing) about current and desired community interactions and value exchanges.
-- Look up two other projects and comment on their issues with feedback on their vision statement.
-- Complete your Open Canvas ([instructions](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/),[canvas](https://docs.google.com/presentation/d/1MeJo0TyuMg_waLk1J4q9y1aAqKNMuRBlnmxEChSz-cQ/edit?usp=sharing))
-- Share a link to your canvas on your GitHub issue.
-- [Start your Roadmap](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/)
-- Comment on your issue with your draft Roadmap.
-- Suggest a cohort name at the bottom of the shared notes and vote on your favorite with a +1.
-
 :earth_asia: Cohort call  
 ---
 
@@ -46,8 +12,8 @@ Duration: _(90 minutes)_
 **JOIN THE CALL** (using Zoom): [ADD ZOOM LINK]
 
 - Please note that this call will be recorded
-- The video will be available on the [YouTube channel](https://t.co/PMSVAuL5df?amp=1) in the next days
-- Turn on your webcam if you don&#39;t mind sharing your face (or off if you do!)
+- The video will be available on the [YouTube channel](https://www.youtube.com/openlifesci) in the next days
+- Turn on your webcam if you don't mind sharing your face (or off if you do!)
 
 **This week**
 
@@ -97,8 +63,8 @@ _Name a dream vacation location, if you could be anywhere in the world (or outsi
   - OLS announcement to share in your network and give each other some well-deserved shout out:
     - Blog post: [https://openlifesci.org/posts/2020/01/13/ols1-announcement/](https://openlifesci.org/posts/2020/01/13/ols1-announcement/)
     - Tweet: [https://twitter.com/openlifesci/status/1217874888393924608](https://twitter.com/openlifesci/status/1217874888393924608?s=20)
-- We&#39;re in **Week 2** - this is the first group cohort call. Week 1 was your mentor/mentee introduction call.
-- Reminder: [Code of conduct &amp; community participation guidelines ](https://openlifesci.org/code-of-conduct)
+- We're in **Week 2** - this is the first group cohort call. Week 1 was your mentor/mentee introduction call.
+- Reminder: [Code of conduct & community participation guidelines ](https://openlifesci.org/code-of-conduct)
 
 - If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika and Yo. ([team@openlifesci.org](mailto:team@openlifesci.org)).
   - To report an issue involving one of the organisers, please email one of the members individually (berenice@openlifesci.org, malvika@openlifesci.org, yo@openlifesci.org).
@@ -119,7 +85,7 @@ Introductions
 ---
 What's your name, location; project name
 
-_(follow roll call order, you&#39;ll have time for longer introductions later!)_
+_(follow roll call order, you'll have time for longer introductions later!)_
 
 -
 
@@ -136,7 +102,7 @@ _This is our first group break-out room, so we will spend 1-2 minutes introducin
 - How did you get into working open?
 - How has working open affected your leadership?
 
-**Breakout room reminder:** if you need assistance in your breakout room, please click the &#39; **Ask for Help**&#39; button at the bottom of your screen
+**Breakout room reminder:** if you need assistance in your breakout room, please click the **Ask for Help** button at the bottom of your screen
 
 Any insights/thoughts/comments to share from your breakout room?
 
@@ -150,7 +116,7 @@ Any insights/thoughts/comments to share from your breakout room?
 
 [host name](⏰ 15 min) 55
 
-Add [your project mission or vision](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/) below &amp; we&#39;ll share in breakout rooms
+Add [your project mission or vision](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/) below & we'll share in breakout rooms
 
 _Add your project name / project vision below (3 min; silent GDoc-ing and +1ing)_
 
