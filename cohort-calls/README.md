@@ -10,7 +10,7 @@ During the 16-week long program:
 *Below we have listed details for the cohort calls and coworking calls, along with the link of shared HackMD document that you will use for shared notes:*
 
 | Week | Call type | Date and time | Topic | HackMD notes |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | **Week 02**: | [Cohort](https://openlifesci.org/ols-2#cohort-calls) | [10 September 2020, 08:00 - 09:30 UTC](https://arewemeetingyet.com/London/2020-09-10/09:00/week-2-cohort-call) | [**Welcome to Open Life Science!**](https://openlifesci.org/ols-2/schedule#week-02) | https://hackmd.io/@openlifesci/ols2-week2.md |
 | **Week 03**: | [Coworking](https://openlifesci.org/ols-2#coworking-calls) | [17 September 2020, 11:30 - 12:30 UTC](https://arewemeetingyet.com/London/2020-09-17/12:30/week-3-coworking-call)  | [**Coworking on assignments, knowledge exchange and networking**](https://openlifesci.org/ols-2/schedule#week-03) | https://hackmd.io/@openlifesci/ols2-week3.md |
 | **Week 04**: | [Cohort](https://openlifesci.org/ols-2#cohort-calls) | [24 September 2020, 16:30 - 18:00 UTC](https://arewemeetingyet.com/London/2020-09-24/17:30/week-4-cohort-call)  | [**Tooling and roadmapping for Open projects**](https://openlifesci.org/ols-2/schedule#week-04) | https://hackmd.io/@openlifesci/ols2-week4.md |
