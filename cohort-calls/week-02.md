@@ -1,7 +1,8 @@
-# Week 2: Welcome to Open Life Science!
+# Week 2
+
+###### tags: `OLS-2` `cohort calls` `project-leads`
 
 Topic: [**Welcome to Open Life Science!**](https://openlifesci.org/ols-2/schedule#week-02)
-
 
 Date and time: [10 September 2020, 08:00 - 09:30 UTC](https://arewemeetingyet.com/London/2020-09-10/09:00/week-2-cohort-call)
 
@@ -15,39 +16,31 @@ Duration: _(90 minutes)_
 - Unpack the differences between &quot;open by default&quot; and &quot;open by design.&quot;
 - Learn about common community interactions in open projects.
 - Learn about common value exchanges between community members in open science
+- Suggest a cohort name at the bottom of the shared notes and vote on your favorite with a +1.
 
-**Haven&#39;t heard from your mentor yet?** Let us know.
-
-**Resources:**
+**Haven't heard from your mentor yet?** Let us know.
 
 **Before this meeting:**
 
-- Add your vision statement to your GitHub repo.
-
-**After this meeting:**
-
-- Complete this [compare and contrast assignment](https://docs.google.com/document/d/1ukvqDRIYfvCapVMdE5hWP-0MkLNJ9T65X43O7F336Ac/edit?usp=sharing) about current and desired community interactions and value exchanges.
-- Look up two other projects and comment on their issues with feedback on their vision statement.
-- Complete your Open Canvas ([instructions](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/),[canvas](https://docs.google.com/presentation/d/1MeJo0TyuMg_waLk1J4q9y1aAqKNMuRBlnmxEChSz-cQ/edit?usp=sharing))
-- Share a link to your canvas on your GitHub issue.
-- [Start your Roadmap](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/)
-- Comment on your issue with your draft Roadmap.
-- Suggest a cohort name at the bottom of the shared notes and vote on your favorite with a +1.
+- Create [your project vision statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/): Bring this to the call to share with others
+    - it's OK to create this in your shared HackMD with your mentor, google doc or a GitHub repository (if you feel comfortable) - whichever is most convenient at this point.
+- Optional: Read this post on mentorability: https://ideas.ted.com/are-you-mentorable/
 
 :earth_asia: Cohort call  
 ---
 
-**Call time** : [INSERT TIME ZONE and arewemeetingyet link]
+**Call time** : 8:00 UTC/9:00 BST/10:00 CEST ([see your local time](https://arewemeetingyet.com/Berlin/2020-09-10/10:00/OLS-2%20Cohort%20Call%20(Week%2002))) 
 
-**Hosts** : [INSERT HOST NAMES]
+**Hosts** : Malvika, Bérénice, Yo
 
-**Syllabus** : [https://openlifesci.org/ols-1/week02/](https://openlifesci.org/ols-1/week02/)
+**Syllabus** : [OLS-2 Week-2](https://openlifesci.org/ols-2/schedule/#week-02)
 
-**JOIN THE CALL** (using Zoom): [ADD ZOOM LINK]
+**JOIN THE CALL** (using Zoom)
+[ZOOM LINK WILL BE ADDED]
 
 - Please note that this call will be recorded
 - The video will be available on the [YouTube channel](https://t.co/PMSVAuL5df?amp=1) in the next days
-- Turn on your webcam if you don&#39;t mind sharing your face (or off if you do!)
+- Turn on your webcam if you don't mind being in the video (or off if you do!)
 
 **This week**
 
@@ -56,21 +49,21 @@ During our first cohort call, we will:
 - Say hello and introduce ourselves.
 - Review our Community Participation Guidelines.
 - Review our definition of open leadership.
-- Unpack the differences between &quot;open by default&quot; and &quot;open by design.&quot;
+- ==Learn about you role as a mentee/project lead==
+- Unpack the differences between "open by default" and "open by design"
 - Learn about common community interactions in open projects.
 - Learn about common value exchanges between community members in open science
 
 **Haven't heard from your mentor yet?** Let us know.
 
-**Before this meeting**
+**Before this call**
 
-- Create an issue on the OLS-1 [GitHub repository](https://github.com/open-life-science/ols-1/issues/new) for your OLS work and share the link with your mentor
-- Draft a brief vision statement using your goals
+- Using your goals set in the week-1, draft a brief [project vision statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)
 
 **Roll call**
 
 - _Name / Project / social handles (twitter, GitHub, etc.) /_ [_emoji mood _](https://emojipedia.org/)
--
+- Malvika Sharan / OLS-2 / malvikasharan / 🤯
 -
 -
 -
@@ -95,11 +88,10 @@ _Name a dream vacation location, if you could be anywhere in the world (or outsi
 
 - Welcome to Open Life Science! The Open Life Science program helps **early-stage researchers and potential academic leaders** in becoming **Open Science ambassadors**.
   - OLS announcement to share in your network and give each other some well-deserved shout out:
-    - Blog post: [https://openlifesci.org/posts/2020/01/13/ols1-announcement/](https://openlifesci.org/posts/2020/01/13/ols1-announcement/)
-    - Tweet: [https://twitter.com/openlifesci/status/1217874888393924608](https://twitter.com/openlifesci/status/1217874888393924608?s=20)
-- We&#39;re in **Week 2** - this is the first group cohort call. Week 1 was your mentor/mentee introduction call.
-- Reminder: [Code of conduct &amp; community participation guidelines ](https://openlifesci.org/code-of-conduct)
-
+    - Blog post: https://openlifesci.org/posts/2020/09/01/ols2-announcement/
+    - Tweet: https://twitter.com/openlifesci/status/1302923905548668928
+- We're in **Week 2** - this is the first group cohort call. Week 1 was your mentor/mentee introduction call.
+- Reminder: [Code of conduct and community participation guidelines ](https://openlifesci.org/code-of-conduct)
 - If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika and Yo. ([team@openlifesci.org](mailto:team@openlifesci.org)).
   - To report an issue involving one of the organisers, please email one of the members individually (berenice@openlifesci.org, malvika@openlifesci.org, yo@openlifesci.org).
 
@@ -119,7 +111,7 @@ Introductions
 ---
 What's your name, location; project name
 
-_(follow roll call order, you&#39;ll have time for longer introductions later!)_
+_(follow roll call order, you'll have time for longer introductions later!)_
 
 -
 
@@ -170,6 +162,14 @@ _Add your project name / project vision below (3 min; silent GDoc-ing and +1ing)
   - question here
   - question here
 
+🖥 You role as a mentee and a project leader
+---
+
+Let's ask ourselves: **Am I mentorable?**
+
+*“mentorability” to refer to the ability of mentees to benefit from mentoring.*
+
+
 🖥 Introducing **Open Canvas**
 ---
 
@@ -205,28 +205,32 @@ _Add your project name / project vision below (3 min; silent GDoc-ing and +1ing)
     - idea here
     - idea here
 
-- **Assignments**
+- **Assignments before you meet you mentor next week**
 
+  - Open an issue on OLS-2 repo where you will be able to track you progress in this cohort: https://github.com/open-life-science/ols-2
+      - we will quickly demo it for those who are new to GitHub
   - Complete this [compare and contrast assignment](https://docs.google.com/document/d/1ukvqDRIYfvCapVMdE5hWP-0MkLNJ9T65X43O7F336Ac/edit?usp=sharing) about current and desired community interactions and value exchanges.
-  - Look up two other projects and comment on their issues with feedback on their vision statement.
   - Complete your Open Canvas ([instructions](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/),[canvas](https://docs.google.com/presentation/d/1MeJo0TyuMg_waLk1J4q9y1aAqKNMuRBlnmxEChSz-cQ/edit?usp=sharing))
   - Share a link to your canvas on your GitHub issue.
+  - Look up at least two other projects in the issues and comment on their issues with feedback on their vision statement.
+
+**Next steps:**
   - [Start your Roadmap](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/)
   - Comment on your issue with your draft Roadmap.
-- Reminders: Make sure you are added in the OLS-2 mailing list
-- Google calendar: [https://calendar.google.com/calendar/b/1?cid=bjNycWh2dWZmMDVvamtsMG9wZnN2aDQ5ZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ](https://calendar.google.com/calendar/b/1?cid=bjNycWh2dWZmMDVvamtsMG9wZnN2aDQ5ZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-
-- Open Q&A time
+- Reminders: Make sure you are added in the OLS-2 mailing list, Google calendar and Slack
 
 **Next calls**
 
 Staggered calls - one good for eu/india/east asia, one good for eu/americas
 
-Next weeks:
-
 - Week 3 - Mentor call!
-- Week 4 - Cohort call: Tooling and road mapping for Open projects  [https://openlifesci.org/ols-1/week04/](https://openlifesci.org/ols-1/week04/)
-- Week 5 - Optional - Intro to GitHub - [https://openlifesci.org/ols-1/week04-extra/](https://openlifesci.org/ols-1/week04-extra/)
+- Week 4 - Cohort call: Tooling and road mapping for Open projects
+- Week 5 - Optional - Intro to GitHub
+
+_Have more questions? Add them below:_
+we will respond to these on Slack and also share them via an email
+
+-
 
 **Feedback**
 
