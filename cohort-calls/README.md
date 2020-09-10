@@ -12,6 +12,7 @@ For cohort call and coworking schedule, please visit our website: https://openli
 Links to the the HackMD notes for each week have been provided below:
 
 - Week-02: Cohort call: https://hackmd.io/@openlifesci/ols-2-week-02
+  - A copy of this note has been archived as well: https://hackmd.io/@openlifesci/ols2-week2 (this link was already shared with the cohort)
 - Week-03: Coworking call: https://hackmd.io/@openlifesci/ols-2-week-03
 - Week-04: Cohort call:https://hackmd.io/@openlifesci/ols-2-week-04
 - Week-05: GitHub Intro: https://hackmd.io/@openlifesci/ols-2-week-05
@@ -24,4 +25,7 @@ Links to the the HackMD notes for each week have been provided below:
 - Week-12: Cohort call:https://hackmd.io/@openlifesci/ols-2-week-12
 - Week-13: Coworking call: https://hackmd.io/@openlifesci/ols-2-week-13
 - Week-14: Cohort call:https://hackmd.io/@openlifesci/ols-2-week-14
-
+- Week-15: Graduation rehearsal group 1: https://hackmd.io/@openlifesci/ols-2-week-15
+- Week-15: Graduation rehearsal group 2: https://hackmd.io/@openlifesci/ols-2-week-15-gr2
+- Week-15: Graduation presentation group 1: https://hackmd.io/@openlifesci/ols-2-week-16
+- Week-15: Graduation presentation group 2: https://hackmd.io/@openlifesci/ols-2-week-16-gr2
