@@ -2,6 +2,8 @@
 
 ###### tags: `OLS-2` `cohort calls` `project-leads`
 
+Link to the HackMD notes: https://hackmd.io/@openlifesci/ols2-week2
+
 Topic: [**Welcome to Open Life Science!**](https://openlifesci.org/ols-2/schedule#week-02)
 
 Date and time: [10 September 2020, 08:00 - 09:30 UTC](https://arewemeetingyet.com/London/2020-09-10/09:00/week-2-cohort-call)
