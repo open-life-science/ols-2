@@ -2,13 +2,20 @@
 
 ###### tags: `OLS-2` `cohort` `project-leads`
 
-Topic: [**Welcome to Open Life Science!**](https://openlifesci.org/ols-2/schedule#week-02)
+- Schedule: [**Welcome to Open Life Science!**](https://openlifesci.org/ols-2/schedule#week-02)
+- Date and time: [10 September 2020, 08:00 - 09:30 UTC](https://arewemeetingyet.com/London/2020-09-10/09:00/week-2-cohort-call), Duration: 90 minutes
+- Link to the shared notes: https://hackmd.io/@openlifesci/ols-2-week-02
+- Zoom call joining link: <This call has concluded>
 
-Date and time: [10 September 2020, 08:00 - 09:30 UTC](https://arewemeetingyet.com/London/2020-09-10/09:00/week-2-cohort-call)
+**Before this meeting:**
 
-Duration: _(90 minutes)_
+- Create [your project vision statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/): Bring this to the call to share with others
+    - it's OK to create this in your shared HackMD with your mentor, google doc or a GitHub repository (if you feel comfortable) - whichever is most convenient at this point.
+- Optional: Read this post on mentorability: https://ideas.ted.com/are-you-mentorable/
 
-*Table of contents*
+**Haven't heard from your mentor yet?** Let us know.
+
+**Table of contents**
 
   * [:earth_asia: Cohort call](#-earth-asia--cohort-call)
   * [🗣️ Welcome!](#----welcome-)
@@ -26,14 +33,6 @@ Duration: _(90 minutes)_
     + [Next calls](#next-calls)
     + [Leave your feedback](#leave-your-feedback)
 
-**Before this meeting:**
-
-- Create [your project vision statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/): Bring this to the call to share with others
-    - it's OK to create this in your shared HackMD with your mentor, google doc or a GitHub repository (if you feel comfortable) - whichever is most convenient at this point.
-- Optional: Read this post on mentorability: https://ideas.ted.com/are-you-mentorable/
-
-**Haven't heard from your mentor yet?** Let us know.
-
 ## :earth_asia: Cohort call  
 
 **Call time** : 8:00 UTC/9:00 BST/10:00 CEST ([see your local time](https://arewemeetingyet.com/Berlin/2020-09-10/10:00/OLS-2%20Cohort%20Call%20(Week%2002))) 
@@ -42,7 +41,7 @@ Duration: _(90 minutes)_
 
 **Syllabus** : [OLS-2 Week-2](https://openlifesci.org/ols-2/schedule/#week-02)
 
-**JOIN THE CALL** (using Zoom)
+**Video recording of this call**
 
 - Please note that this call will be recorded
 - The video will be available on the [YouTube channel](https://t.co/PMSVAuL5df?amp=1) in the next days
@@ -59,13 +58,7 @@ During our first cohort call, we will:
 - Unpack the differences between "open by default" and "open by design"
 - Learn about common community interactions in open projects.
 - Learn about common value exchanges between community members in open science
-- Suggest a cohort name at the bottom of this notes and vote on your favorite with a +1.
-
-**Haven't heard from your mentor yet?** Let us know.
-
-**Before this call**
-
-- Using your goals set in the week-1, draft a brief [project vision statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)
+- Suggest a cohort name at the bottom of this notes and vote on your favorite with a +1
 
 **Roll call**
 
