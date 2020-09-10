@@ -9,4 +9,19 @@ During the 16-week long program:
 
 For cohort call and coworking schedule, please visit our website: https://openlifesci.org/ols-2/schedule/.
 
-The HackMD notes for each week have been linked to the respective files in this folder.
+Links to the the HackMD notes for each week have been provided below:
+
+- Week-02: Cohort call: https://hackmd.io/@openlifesci/ols-2-week-02
+- Week-03: Coworking call: https://hackmd.io/@openlifesci/ols-2-week-03
+- Week-04: Cohort call:https://hackmd.io/@openlifesci/ols-2-week-04
+- Week-05: GitHub Intro: https://hackmd.io/@openlifesci/ols-2-week-05
+- Week-06: Cohort call:https://hackmd.io/@openlifesci/ols-2-week-06
+- Week-07: Coworking call: https://hackmd.io/@openlifesci/ols-2-week-07
+- Week-08: Cohort call:https://hackmd.io/@openlifesci/ols-2-week-08
+- Week-09: Coworking call: https://hackmd.io/@openlifesci/ols-2-week-09
+- Week-10: Cohort call:https://hackmd.io/@openlifesci/ols-2-week-10
+- Week-11: Coworking call: https://hackmd.io/@openlifesci/ols-2-week-11
+- Week-12: Cohort call:https://hackmd.io/@openlifesci/ols-2-week-12
+- Week-13: Coworking call: https://hackmd.io/@openlifesci/ols-2-week-13
+- Week-14: Cohort call:https://hackmd.io/@openlifesci/ols-2-week-14
+
