@@ -27,5 +27,5 @@ Links to the the HackMD notes for each week have been provided below:
 - Week-14: Cohort call:https://hackmd.io/@openlifesci/ols-2-week-14
 - Week-15: Graduation rehearsal group 1: https://hackmd.io/@openlifesci/ols-2-week-15
 - Week-15: Graduation rehearsal group 2: https://hackmd.io/@openlifesci/ols-2-week-15-gr2
-- Week-15: Graduation presentation group 1: https://hackmd.io/@openlifesci/ols-2-week-16
-- Week-15: Graduation presentation group 2: https://hackmd.io/@openlifesci/ols-2-week-16-gr2
+- Week-16: Graduation presentation group 1: https://hackmd.io/@openlifesci/ols-2-week-16
+- Week-17: Graduation presentation group 2: https://hackmd.io/@openlifesci/ols-2-week-16-gr2
