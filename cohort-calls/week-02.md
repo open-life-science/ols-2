@@ -1,18 +1,12 @@
-# Week 2
+# Week 2: cohort call
 
-###### tags: `OLS-2` `cohort calls` `project-leads`
+###### tags: `OLS-2` `cohort` `project-leads`
 
-Syllabus: [OLS-2 Week-2](https://openlifesci.org/ols-2/schedule/#week-02): Welcome to OLS!
-Link to the shared HackMD notes: https://hackmd.io/@openlifesci/ols2-week2
+Topic: [**Welcome to Open Life Science!**](https://openlifesci.org/ols-2/schedule#week-02)
+
 Date and time: [10 September 2020, 08:00 - 09:30 UTC](https://arewemeetingyet.com/London/2020-09-10/09:00/week-2-cohort-call)
 
 Duration: _(90 minutes)_
-
-**Before this meeting:**
-
-- Create [your project vision statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/): Bring this to the call to share with others
-    - it's OK to create this in your shared HackMD with your mentor, google doc or a GitHub repository (if you feel comfortable) - whichever is most convenient at this point.
-- Optional: Read this post on mentorability: https://ideas.ted.com/are-you-mentorable/
 
 *Table of contents*
 
@@ -32,6 +26,11 @@ Duration: _(90 minutes)_
     + [Next calls](#next-calls)
     + [Leave your feedback](#leave-your-feedback)
 
+**Before this meeting:**
+
+- Create [your project vision statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/): Bring this to the call to share with others
+    - it's OK to create this in your shared HackMD with your mentor, google doc or a GitHub repository (if you feel comfortable) - whichever is most convenient at this point.
+- Optional: Read this post on mentorability: https://ideas.ted.com/are-you-mentorable/
 
 **Haven't heard from your mentor yet?** Let us know.
 
@@ -40,6 +39,8 @@ Duration: _(90 minutes)_
 **Call time** : 8:00 UTC/9:00 BST/10:00 CEST ([see your local time](https://arewemeetingyet.com/Berlin/2020-09-10/10:00/OLS-2%20Cohort%20Call%20(Week%2002))) 
 
 **Hosts** : Malvika, Bérénice, Yo
+
+**Syllabus** : [OLS-2 Week-2](https://openlifesci.org/ols-2/schedule/#week-02)
 
 **JOIN THE CALL** (using Zoom)
 
