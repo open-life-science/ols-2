@@ -2,7 +2,8 @@
 
 Welcome! This is the [second cohort of Open Life Science](https://openlifesci.org/ols-2) (OLS-2) program repository. 
 This repository will be used for the issue tracker feature of GitHub. 
-All the projects going through OLS-2 (LINK WILL BE ADDED) will use one issue to keep track of their progress during the program.
+All the [projects in OLS-2]() will use one issue to keep track of their progress during the program.
+Notes from the cohort calls will be stored in the [ols2-cohort-calls](directory https://github.com/open-life-science/ols-2/blob/ols2-cohort-calls).
 
 ## How to Work With Us
 
