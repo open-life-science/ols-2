@@ -1,6 +1,6 @@
 # Open Life Science 2
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome! This is the [second cohort of Open Life Science](https://openlifesci.org/ols-2) (OLS-2) program repository. 
@@ -52,6 +52,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/EKaroune"><img src="https://avatars2.githubusercontent.com/u/58147174?v=4" width="100px;" alt=""/><br /><sub><b>Em K</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3AEKaroune" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/DavidBeavan"><img src="https://avatars3.githubusercontent.com/u/6524799?v=4" width="100px;" alt=""/><br /><sub><b>David Beavan</b></sub></a><br /><a href="#ideas-DavidBeavan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-DavidBeavan" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/crangelsmith"><img src="https://avatars2.githubusercontent.com/u/11162074?v=4" width="100px;" alt=""/><br /><sub><b>Camila Rangel Smith</b></sub></a><br /><a href="#ideas-crangelsmith" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-crangelsmith" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/samvanstroud"><img src="https://avatars0.githubusercontent.com/u/16232199?v=4" width="100px;" alt=""/><br /><sub><b>Sam Vs</b></sub></a><br /><a href="#ideas-samvanstroud" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-samvanstroud" title="Content">🖋</a></td>
   </tr>
 </table>
 
