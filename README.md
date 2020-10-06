@@ -1,6 +1,6 @@
 # Open Life Science 2
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome! This is the [second cohort of Open Life Science](https://openlifesci.org/ols-2) (OLS-2) program repository. 
@@ -68,6 +68,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/samuelorion"><img src="https://avatars2.githubusercontent.com/u/48258997?v=4" width="100px;" alt=""/><br /><sub><b>samuelorion</b></sub></a><br /><a href="#ideas-samuelorion" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-samuelorion" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/anproulx"><img src="https://avatars0.githubusercontent.com/u/65092948?v=4" width="100px;" alt=""/><br /><sub><b>Andréanne Proulx</b></sub></a><br /><a href="#ideas-anproulx" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-anproulx" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/hzahroh"><img src="https://avatars3.githubusercontent.com/u/70099457?v=4" width="100px;" alt=""/><br /><sub><b>Hilyatuz Zahroh</b></sub></a><br /><a href="#ideas-hzahroh" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-hzahroh" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/karegapauline"><img src="https://avatars2.githubusercontent.com/u/27417671?v=4" width="100px;" alt=""/><br /><sub><b>karegapauline</b></sub></a><br /><a href="#content-karegapauline" title="Content">🖋</a> <a href="#ideas-karegapauline" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
