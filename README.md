@@ -30,7 +30,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/malvikasharan"><img src="https://avatars0.githubusercontent.com/u/5370471?v=4" width="100px;" alt=""/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#content-malvikasharan" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/malvikasharan"><img src="https://avatars0.githubusercontent.com/u/5370471?v=4" width="100px;" alt=""/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#content-malvikasharan" title="Content">🖋</a> <a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3Amalvikasharan" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="http://yo-yehudi.com"><img src="https://avatars0.githubusercontent.com/u/9271438?v=4" width="100px;" alt=""/><br /><sub><b>Yo Yehudi</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3Ayochannah" title="Reviewed Pull Requests">👀</a> <a href="#content-yochannah" title="Content">🖋</a></td>
     <td align="center"><a href="http://research.bebatut.fr/"><img src="https://avatars0.githubusercontent.com/u/1842467?v=4" width="100px;" alt=""/><br /><sub><b>Bérénice Batut</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3Abebatut" title="Reviewed Pull Requests">👀</a> <a href="#content-bebatut" title="Content">🖋</a></td>
   </tr>
