@@ -373,6 +373,16 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "paulowoicho",
+      "name": "Paul Owoicho",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/28223751?v=4",
+      "profile": "https://www.linkedin.com/in/paulowoicho/",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
