@@ -30,7 +30,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/malvikasharan"><img src="https://avatars0.githubusercontent.com/u/5370471?v=4" width="100px;" alt=""/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#content-malvikasharan" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/malvikasharan"><img src="https://avatars0.githubusercontent.com/u/5370471?v=4" width="100px;" alt=""/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#content-malvikasharan" title="Content">🖋</a> <a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3Amalvikasharan" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
