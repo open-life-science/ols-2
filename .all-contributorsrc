@@ -42,7 +42,8 @@
       "profile": "https://github.com/GeorgiaHCA",
       "contributions": [
         "content",
-        "ideas"
+        "ideas",
+        "review"
       ]
     },
     {
@@ -69,7 +70,9 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/36628298?v=4",
       "profile": "https://www.freeourknowledge.org/",
       "contributions": [
-        "review"
+        "review",
+        "ideas",
+        "content"
       ]
     },
     {
@@ -100,6 +103,42 @@
         "review",
         "content",
         "ideas"
+      ]
+    },
+    {
+      "login": "smklusza",
+      "name": "Stephen Klusza",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/28989267?v=4",
+      "profile": "https://github.com/smklusza",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "kevinxufs",
+      "name": "kevinxufs",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/48526846?v=4",
+      "profile": "https://github.com/kevinxufs",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "da5nsy",
+      "name": "Danny Garside",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3739866?v=4",
+      "profile": "http://dannygarside.co.uk",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "RP87",
+      "name": "Rudy PATARD",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/12710068?v=4",
+      "profile": "http://documentation.opteos.fr/wiki/Rudy_Patard",
+      "contributions": [
+        "review"
       ]
     }
   ],
