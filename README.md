@@ -1,6 +1,6 @@
 # Open Life Science 2
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome! This is the [second cohort of Open Life Science](https://openlifesci.org/ols-2) (OLS-2) program repository. 
@@ -39,7 +39,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.freeourknowledge.org/"><img src="https://avatars3.githubusercontent.com/u/36628298?v=4" width="100px;" alt=""/><br /><sub><b>Cooper Smout</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3ACooperSmout" title="Reviewed Pull Requests">👀</a> <a href="#ideas-CooperSmout" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-CooperSmout" title="Content">🖋</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/baileythegreen"><img src="https://avatars0.githubusercontent.com/u/12277715?v=4" width="100px;" alt=""/><br /><sub><b>baileythegreen</b></sub></a><br /><a href="#ideas-baileythegreen" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-baileythegreen" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/baileythegreen"><img src="https://avatars0.githubusercontent.com/u/12277715?v=4" width="100px;" alt=""/><br /><sub><b>baileythegreen</b></sub></a><br /><a href="#ideas-baileythegreen" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-baileythegreen" title="Content">🖋</a> <a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3Abaileythegreen" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/natty2012"><img src="https://avatars1.githubusercontent.com/u/67627816?v=4" width="100px;" alt=""/><br /><sub><b>natty2012</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3Anatty2012" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/tlaguna"><img src="https://avatars1.githubusercontent.com/u/13220006?v=4" width="100px;" alt=""/><br /><sub><b>tlaguna</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3Atlaguna" title="Reviewed Pull Requests">👀</a> <a href="#content-tlaguna" title="Content">🖋</a> <a href="#ideas-tlaguna" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/smklusza"><img src="https://avatars3.githubusercontent.com/u/28989267?v=4" width="100px;" alt=""/><br /><sub><b>Stephen Klusza</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3Asmklusza" title="Reviewed Pull Requests">👀</a></td>
