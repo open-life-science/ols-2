@@ -1,6 +1,6 @@
 # Open Life Science 2
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome! This is the [second cohort of Open Life Science](https://openlifesci.org/ols-2) (OLS-2) program repository. 
@@ -71,6 +71,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/karegapauline"><img src="https://avatars2.githubusercontent.com/u/27417671?v=4" width="100px;" alt=""/><br /><sub><b>karegapauline</b></sub></a><br /><a href="#content-karegapauline" title="Content">🖋</a> <a href="#ideas-karegapauline" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://palaeontologist, biomechanist. research areas: joint range of motion, feeding biomechanics, 3D modeling, osteoarthritic changes in bone"><img src="https://avatars0.githubusercontent.com/u/70652408?v=4" width="100px;" alt=""/><br /><sub><b>Dylan-Bastiaans</b></sub></a><br /><a href="#ideas-Dylan-Bastiaans" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-Dylan-Bastiaans" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/beatrizserrano"><img src="https://avatars3.githubusercontent.com/u/11300231?v=4" width="100px;" alt=""/><br /><sub><b>Beatriz Serrano-Solano</b></sub></a><br /><a href="#ideas-beatrizserrano" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-beatrizserrano" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/nehamoopen"><img src="https://avatars3.githubusercontent.com/u/37183829?v=4" width="100px;" alt=""/><br /><sub><b>nehamoopen</b></sub></a><br /><a href="#ideas-nehamoopen" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-nehamoopen" title="Content">🖋</a></td>
   </tr>
 </table>
 
