@@ -53,6 +53,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "LauraCarter",
+      "name": "Laura Carter",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16853500?v=4",
+      "profile": "https://github.com/LauraCarter",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
