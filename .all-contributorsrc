@@ -327,6 +327,16 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "karegapauline",
+      "name": "karegapauline",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/27417671?v=4",
+      "profile": "https://github.com/karegapauline",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
