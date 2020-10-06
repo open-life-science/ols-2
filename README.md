@@ -17,9 +17,7 @@ Find out more about each project how you can get involved in the individual issu
 Open Life Science participants adheres to a [code of conduct](CODE_OF_CONDUCT.md). 
 By participating, you are expected to uphold this code. Please report unacceptable behavior to [team@openlifesci.org](mailto:team@openlifesci.org).
 
-# Contributors
-
-We are using the [all-contributors bot emoji keys](https://allcontributors.org/) to acknowledge the contributors of this repo:
+*We are using the [all-contributors bot emoji keys](https://allcontributors.org/) to acknowledge the contributors of this repo.*
 
 ## Contributors ✨
 
