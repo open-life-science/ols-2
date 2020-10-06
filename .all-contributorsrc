@@ -62,6 +62,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "CooperSmout",
+      "name": "Cooper Smout",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/36628298?v=4",
+      "profile": "https://www.freeourknowledge.org/",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
