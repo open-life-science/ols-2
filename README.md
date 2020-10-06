@@ -1,6 +1,6 @@
 # Open Life Science 2
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome! This is the [second cohort of Open Life Science](https://openlifesci.org/ols-2) (OLS-2) program repository. 
@@ -35,7 +35,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://research.bebatut.fr/"><img src="https://avatars0.githubusercontent.com/u/1842467?v=4" width="100px;" alt=""/><br /><sub><b>Bérénice Batut</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3Abebatut" title="Reviewed Pull Requests">👀</a> <a href="#content-bebatut" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/GeorgiaHCA"><img src="https://avatars1.githubusercontent.com/u/46889966?v=4" width="100px;" alt=""/><br /><sub><b>Georgia</b></sub></a><br /><a href="#content-GeorgiaHCA" title="Content">🖋</a> <a href="#ideas-GeorgiaHCA" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3AGeorgiaHCA" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://www.researchgate.net/profile/Eva_Herbst3"><img src="https://avatars1.githubusercontent.com/u/31034865?v=4" width="100px;" alt=""/><br /><sub><b>Eva C. Herbst</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3Aevaherbst" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/LauraCarter"><img src="https://avatars3.githubusercontent.com/u/16853500?v=4" width="100px;" alt=""/><br /><sub><b>Laura Carter</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3ALauraCarter" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/LauraCarter"><img src="https://avatars3.githubusercontent.com/u/16853500?v=4" width="100px;" alt=""/><br /><sub><b>Laura Carter</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3ALauraCarter" title="Reviewed Pull Requests">👀</a> <a href="#ideas-LauraCarter" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-LauraCarter" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.freeourknowledge.org/"><img src="https://avatars3.githubusercontent.com/u/36628298?v=4" width="100px;" alt=""/><br /><sub><b>Cooper Smout</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3ACooperSmout" title="Reviewed Pull Requests">👀</a> <a href="#ideas-CooperSmout" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-CooperSmout" title="Content">🖋</a></td>
   </tr>
   <tr>
@@ -63,6 +63,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/StefanGaillard"><img src="https://avatars0.githubusercontent.com/u/32513086?v=4" width="100px;" alt=""/><br /><sub><b>StefanGaillard</b></sub></a><br /><a href="#ideas-StefanGaillard" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-StefanGaillard" title="Content">🖋</a></td>
     <td align="center"><a href="http://concarneau.mnhn.fr/"><img src="https://avatars2.githubusercontent.com/u/7910679?v=4" width="100px;" alt=""/><br /><sub><b>Yvan Le Bras</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3Ayvanlebras" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/mloning/"><img src="https://avatars3.githubusercontent.com/u/21020482?v=4" width="100px;" alt=""/><br /><sub><b>Markus Löning</b></sub></a><br /><a href="#ideas-mloning" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-mloning" title="Content">🖋</a> <a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3Amloning" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/Ismael-KG"><img src="https://avatars0.githubusercontent.com/u/64027166?v=4" width="100px;" alt=""/><br /><sub><b>Ismael-KG</b></sub></a><br /><a href="#ideas-Ismael-KG" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-Ismael-KG" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/BrainonSilicon"><img src="https://avatars1.githubusercontent.com/u/42813259?v=4" width="100px;" alt=""/><br /><sub><b>Sophia Batchelor</b></sub></a><br /><a href="#ideas-BrainonSilicon" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-BrainonSilicon" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/samuelorion"><img src="https://avatars2.githubusercontent.com/u/48258997?v=4" width="100px;" alt=""/><br /><sub><b>samuelorion</b></sub></a><br /><a href="#ideas-samuelorion" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-samuelorion" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/anproulx"><img src="https://avatars0.githubusercontent.com/u/65092948?v=4" width="100px;" alt=""/><br /><sub><b>Andréanne Proulx</b></sub></a><br /><a href="#ideas-anproulx" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-anproulx" title="Content">🖋</a></td>
   </tr>
 </table>
 

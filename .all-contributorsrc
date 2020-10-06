@@ -61,7 +61,9 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/16853500?v=4",
       "profile": "https://github.com/LauraCarter",
       "contributions": [
-        "review"
+        "review",
+        "ideas",
+        "content"
       ]
     },
     {
@@ -270,6 +272,46 @@
         "ideas",
         "content",
         "review"
+      ]
+    },
+    {
+      "login": "Ismael-KG",
+      "name": "Ismael-KG",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/64027166?v=4",
+      "profile": "https://github.com/Ismael-KG",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "BrainonSilicon",
+      "name": "Sophia Batchelor",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/42813259?v=4",
+      "profile": "https://github.com/BrainonSilicon",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "samuelorion",
+      "name": "samuelorion",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/48258997?v=4",
+      "profile": "https://github.com/samuelorion",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "anproulx",
+      "name": "Andréanne Proulx",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/65092948?v=4",
+      "profile": "https://github.com/anproulx",
+      "contributions": [
+        "ideas",
+        "content"
       ]
     }
   ],
