@@ -1,6 +1,6 @@
 # Open Life Science 2
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome! This is the [second cohort of Open Life Science](https://openlifesci.org/ols-2) (OLS-2) program repository. 
@@ -63,6 +63,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/StefanGaillard"><img src="https://avatars0.githubusercontent.com/u/32513086?v=4" width="100px;" alt=""/><br /><sub><b>StefanGaillard</b></sub></a><br /><a href="#ideas-StefanGaillard" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-StefanGaillard" title="Content">🖋</a></td>
     <td align="center"><a href="http://concarneau.mnhn.fr/"><img src="https://avatars2.githubusercontent.com/u/7910679?v=4" width="100px;" alt=""/><br /><sub><b>Yvan Le Bras</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3Ayvanlebras" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/Ismael-KG"><img src="https://avatars0.githubusercontent.com/u/64027166?v=4" width="100px;" alt=""/><br /><sub><b>Ismael-KG</b></sub></a><br /><a href="#ideas-Ismael-KG" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-Ismael-KG" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/BrainonSilicon"><img src="https://avatars1.githubusercontent.com/u/42813259?v=4" width="100px;" alt=""/><br /><sub><b>Sophia Batchelor</b></sub></a><br /><a href="#ideas-BrainonSilicon" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-BrainonSilicon" title="Content">🖋</a></td>
   </tr>
 </table>
 
