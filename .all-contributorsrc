@@ -129,6 +129,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "RP87",
+      "name": "Rudy PATARD",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/12710068?v=4",
+      "profile": "http://documentation.opteos.fr/wiki/Rudy_Patard",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
