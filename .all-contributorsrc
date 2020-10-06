@@ -14,6 +14,26 @@
         "content",
         "review"
       ]
+    },
+    {
+      "login": "yochannah",
+      "name": "Yo Yehudi",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9271438?v=4",
+      "profile": "http://yo-yehudi.com",
+      "contributions": [
+        "review",
+        "content"
+      ]
+    },
+    {
+      "login": "bebatut",
+      "name": "Bérénice Batut",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1842467?v=4",
+      "profile": "http://research.bebatut.fr/",
+      "contributions": [
+        "review",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
