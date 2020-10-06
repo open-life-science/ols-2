@@ -1,6 +1,6 @@
 # Open Life Science 2
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome! This is the [second cohort of Open Life Science](https://openlifesci.org/ols-2) (OLS-2) program repository. 
@@ -67,6 +67,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/samuelorion"><img src="https://avatars2.githubusercontent.com/u/48258997?v=4" width="100px;" alt=""/><br /><sub><b>samuelorion</b></sub></a><br /><a href="#ideas-samuelorion" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-samuelorion" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/anproulx"><img src="https://avatars0.githubusercontent.com/u/65092948?v=4" width="100px;" alt=""/><br /><sub><b>Andréanne Proulx</b></sub></a><br /><a href="#ideas-anproulx" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-anproulx" title="Content">🖋</a></td>
   </tr>
 </table>
 
