@@ -59,6 +59,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/ambrotini"><img src="https://avatars1.githubusercontent.com/u/69870080?v=4" width="100px;" alt=""/><br /><sub><b>ambrotini</b></sub></a><br /><a href="#ideas-ambrotini" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-ambrotini" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/WasifaRahman"><img src="https://avatars3.githubusercontent.com/u/70468533?v=4" width="100px;" alt=""/><br /><sub><b>WasifaRahman</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3AWasifaRahman" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/KateSimpson"><img src="https://avatars1.githubusercontent.com/u/47245731?v=4" width="100px;" alt=""/><br /><sub><b>Kate</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3AKateSimpson" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
