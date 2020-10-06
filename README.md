@@ -1,6 +1,6 @@
 # Open Life Science 2
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome! This is the [second cohort of Open Life Science](https://openlifesci.org/ols-2) (OLS-2) program repository. 
@@ -62,6 +62,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/KateSimpson"><img src="https://avatars1.githubusercontent.com/u/47245731?v=4" width="100px;" alt=""/><br /><sub><b>Kate</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3AKateSimpson" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/StefanGaillard"><img src="https://avatars0.githubusercontent.com/u/32513086?v=4" width="100px;" alt=""/><br /><sub><b>StefanGaillard</b></sub></a><br /><a href="#ideas-StefanGaillard" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-StefanGaillard" title="Content">🖋</a></td>
     <td align="center"><a href="http://concarneau.mnhn.fr/"><img src="https://avatars2.githubusercontent.com/u/7910679?v=4" width="100px;" alt=""/><br /><sub><b>Yvan Le Bras</b></sub></a><br /><a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3Ayvanlebras" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/mloning/"><img src="https://avatars3.githubusercontent.com/u/21020482?v=4" width="100px;" alt=""/><br /><sub><b>Markus Löning</b></sub></a><br /><a href="#ideas-mloning" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-mloning" title="Content">🖋</a> <a href="https://github.com/open-life-science/ols-2/pulls?q=is%3Apr+reviewed-by%3Amloning" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
