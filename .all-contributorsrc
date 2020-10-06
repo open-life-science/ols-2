@@ -61,7 +61,9 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/16853500?v=4",
       "profile": "https://github.com/LauraCarter",
       "contributions": [
-        "review"
+        "review",
+        "ideas",
+        "content"
       ]
     },
     {
@@ -82,7 +84,8 @@
       "profile": "https://github.com/baileythegreen",
       "contributions": [
         "ideas",
-        "content"
+        "content",
+        "review"
       ]
     },
     {
@@ -111,7 +114,9 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/28989267?v=4",
       "profile": "https://github.com/smklusza",
       "contributions": [
-        "review"
+        "review",
+        "ideas",
+        "content"
       ]
     },
     {
@@ -158,7 +163,9 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/58147174?v=4",
       "profile": "https://github.com/EKaroune",
       "contributions": [
-        "review"
+        "review",
+        "ideas",
+        "content"
       ]
     },
     {
@@ -188,7 +195,8 @@
       "profile": "https://github.com/samvanstroud",
       "contributions": [
         "ideas",
-        "content"
+        "content",
+        "review"
       ]
     },
     {
@@ -217,6 +225,94 @@
       "name": "ambrotini",
       "avatar_url": "https://avatars1.githubusercontent.com/u/69870080?v=4",
       "profile": "https://github.com/ambrotini",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "WasifaRahman",
+      "name": "WasifaRahman",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/70468533?v=4",
+      "profile": "https://github.com/WasifaRahman",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "KateSimpson",
+      "name": "Kate",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/47245731?v=4",
+      "profile": "https://github.com/KateSimpson",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "StefanGaillard",
+      "name": "StefanGaillard",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/32513086?v=4",
+      "profile": "https://github.com/StefanGaillard",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "yvanlebras",
+      "name": "Yvan Le Bras",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7910679?v=4",
+      "profile": "http://concarneau.mnhn.fr/",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "mloning",
+      "name": "Markus Löning",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/21020482?v=4",
+      "profile": "https://www.linkedin.com/in/mloning/",
+      "contributions": [
+        "ideas",
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "Ismael-KG",
+      "name": "Ismael-KG",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/64027166?v=4",
+      "profile": "https://github.com/Ismael-KG",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "BrainonSilicon",
+      "name": "Sophia Batchelor",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/42813259?v=4",
+      "profile": "https://github.com/BrainonSilicon",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "samuelorion",
+      "name": "samuelorion",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/48258997?v=4",
+      "profile": "https://github.com/samuelorion",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "anproulx",
+      "name": "Andréanne Proulx",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/65092948?v=4",
+      "profile": "https://github.com/anproulx",
       "contributions": [
         "ideas",
         "content"
