@@ -44,6 +44,15 @@
         "content",
         "ideas"
       ]
+    },
+    {
+      "login": "evaherbst",
+      "name": "Eva C. Herbst",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/31034865?v=4",
+      "profile": "https://www.researchgate.net/profile/Eva_Herbst3",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
