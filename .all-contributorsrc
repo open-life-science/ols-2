@@ -158,6 +158,16 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "DavidBeavan",
+      "name": "David Beavan",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6524799?v=4",
+      "profile": "https://github.com/DavidBeavan",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
