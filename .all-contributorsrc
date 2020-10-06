@@ -343,6 +343,16 @@
         "content",
         "ideas"
       ]
+    },
+    {
+      "login": "Dylan-Bastiaans",
+      "name": "Dylan-Bastiaans",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/70652408?v=4",
+      "profile": "http://palaeontologist, biomechanist. research areas: joint range of motion, feeding biomechanics, 3D modeling, osteoarthritic changes in bone",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
