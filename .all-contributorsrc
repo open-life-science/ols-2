@@ -72,6 +72,15 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "natty2012",
+      "name": "natty2012",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/67627816?v=4",
+      "profile": "https://github.com/natty2012",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
